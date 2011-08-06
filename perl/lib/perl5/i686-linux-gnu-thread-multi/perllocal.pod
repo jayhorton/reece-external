@@ -1,0 +1,176 @@
+=head2 Tue Nov  9 10:35:49 2010: C<Module> L<BZ::Client|BZ::Client>
+
+=over 4
+
+=item *
+
+C<installed into: /home/reece/opt/reece-perl/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 25 17:30:33 2011: C<Module> L<Module::Metadata|Module::Metadata>
+
+=over 4
+
+=item *
+
+C<installed into: /home/reece/opt/reece-perl/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.000004>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 25 17:30:37 2011: C<Module> L<JSON::PP|JSON::PP>
+
+=over 4
+
+=item *
+
+C<installed into: /home/reece/opt/reece-perl/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.27105>
+
+=item *
+
+C<EXE_FILES: bin/json_pp>
+
+=back
+
+=head2 Mon Apr 25 17:30:38 2011: C<Module> L<CPAN::Meta::YAML|CPAN::Meta::YAML>
+
+=over 4
+
+=item *
+
+C<installed into: /home/reece/opt/reece-perl/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.003>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 25 17:30:43 2011: C<Module> L<Version::Requirements|Version::Requirements>
+
+=over 4
+
+=item *
+
+C<installed into: /home/reece/opt/reece-perl/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.101020>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 25 17:30:44 2011: C<Module> L<CPAN::Meta|CPAN::Meta>
+
+=over 4
+
+=item *
+
+C<installed into: /home/reece/opt/reece-perl/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.110930>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 25 17:30:45 2011: C<Module> L<Perl::OSType|Perl::OSType>
+
+=over 4
+
+=item *
+
+C<installed into: /home/reece/opt/reece-perl/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.002>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 25 17:31:25 2011: C<Module> L<Mojolicious|Mojolicious>
+
+=over 4
+
+=item *
+
+C<installed into: /home/reece/opt/reece-perl/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.21>
+
+=item *
+
+C<EXE_FILES: script/mojo script/hypnotoad>
+
+=back
+
