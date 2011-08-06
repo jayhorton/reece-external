@@ -1,0 +1,49 @@
+acquireAuditData        Generate the audit dataset.
+asRules                 List the rules corresponding to the rpart
+                        decision tree
+asRules.rpart           List the rules corresponding to the rpart
+                        decision tree
+audit                   Sample dataset for illustration Rattle
+                        functionality.
+binning                 Perform binning over numeric data
+calcInitialDigitDistr   Generate a frequency count of the initial
+                        digits
+calculateAUC            Determine area under a curve (e.g. a risk or
+                        recall curve) of a risk chart
+centers.hclust          List Cluster Centers for a Hierarchical Cluster
+cranSearch              Search keywords in the CRAN packages table.
+drawTreeNodes           Draw nodes of a decision tree
+drawTreesAda            Draw trees from an Ada model
+evaluateRisk            Summarise the performance of a data mining
+                        model
+genPlotTitleCmd         Generate a string to add a title to a plot
+listTreesAda            List trees from an Ada model
+listVersions            Versions of Installed Packages
+lss                     List sizes of objects.
+modalvalue              Calculate the mode of a vector, array or list.
+overwritePackageFunction
+                        Overwrite an internal function of a package.
+plotBenfordsLaw         Plot a chart comparing Benford's Law with a
+                        supplied numeric vertor
+plotNetwork             Plot a circular map of network links between
+                        entities
+plotOptimalLine         Plot three lines on a risk chart, one vertical
+                        and two horizontal
+plotRisk                Plot a risk chart
+printRandomForests      Print a representtaion of the Random Forest
+                        models to the console
+randomForest2Rules      Generate accessible data structure of a
+                        randomForest model
+rattle                  Display the Rattle User Interface
+rattle.info             Print version information for Rattle, R,
+                        associated packages and system.
+rattle.print.rpart      Modified printing of rpart decision tree
+rattle.print.summary.multinom
+                        Print information about a multinomial model
+savePlotToFile          Save a plot in some way
+treeset.randomForest    Generate a representation of a tree in a Random
+                        Forest
+weather                 Sample and full dataset for illustrating Rattle
+                        functionality.
+wine                    The wine dataset from the UCI Machien Learning
+                        Repository.

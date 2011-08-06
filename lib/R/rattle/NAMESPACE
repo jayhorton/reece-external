@@ -1,0 +1,42 @@
+export(
+       acquireAuditData,
+       asRules,
+       binning,
+       calcInitialDigitDistr,
+       calculateAUC,
+       centers.hclust,
+       copyPlotToClipboard,
+       cranSearch,
+       drawTreesAda,
+       drawTreeNodes,
+       evaluateRisk,
+       generateAprioriSummary,
+       genPlotTitleCmd,
+       listTreesAda,
+       listVersions,
+       lss,
+       modalvalue,
+       plotBenfordsLaw,
+       plotNetwork,
+       plotOptimalLine,
+       plotRisk,
+       predict.kmeans,
+       predict.hclust,
+       printPlot,
+       printRandomForests,
+       print.summary.nnet.rattle,
+       randomForest2Rules,
+       rattle,
+       rattle.info,
+       rattle.print.rpart,
+       rattle.print.summary.multinom,
+       overwritePackageFunction,
+       savePlotToFile,
+       toga,
+       treeset.randomForest,
+       ada.formula
+       )
+
+exportPattern("_") # Needed for the Glade interface
+
+S3method(asRules, rpart)

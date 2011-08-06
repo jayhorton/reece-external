@@ -1,0 +1,36 @@
+Package: rattle
+Type: Package
+Title: Graphical user interface for data mining in R
+Version: 2.5.45
+Date: 2010-10-09
+Author: Graham Williams <Graham.Williams@togaware.com>
+Maintainer: Graham Williams <Graham.Williams@togaware.com>
+Depends: R (>= 2.8.0), pmml (>= 1.2.13), RGtk2, colorspace
+Suggests: ada, amap, arules, biclust, cairoDevice, cba, descr, doBy,
+        e1071, ellipse, fEcofin, fBasics, foreign, fpc, gdata, gtools,
+        gplots, gWidgetsRGtk2, Hmisc, kernlab, latticist, Matrix, mice,
+        network, nnet, odfWeave, party, playwith, psych, randomForest,
+        reshape, rggobi, RGtk2Extras, ROCR, RODBC, rpart, RSvgDevice,
+        survival, timeDate, XML, methods, graph, RBGL, bitops, grid,
+        pkgDepTools, Rgraphviz
+Description: Rattle (the R Analytic Tool To Learn Easily) provides a
+        Gnome (RGtk2) based interface to R functionality for data
+        mining. The aim is to provide a simple and intuitive interface
+        that allows a user to quickly load data from a CSV file (or via
+        ODBC), transform and explore the data, build and evaluate
+        models, and export models as PMML (predictive modelling markup
+        language) or as scores. All of this with knowing little about
+        R. All R commands are logged and commented through the log tab.
+        Thus they are available to the user as a script file or as an
+        aide for the user to learn R or to copy-and-paste directly into
+        R itself. Rattle also exports a number of utility functions and
+        the graphical user interface, invoked as rattle(), does not
+        need to be run to deploy these.
+License: GPL (>= 2)
+LazyLoad: yes
+LazyData: yes
+URL: http://rattle.togaware.com/
+Packaged: 2010-10-08 21:23:22 UTC; gjw
+Repository: CRAN
+Date/Publication: 2010-10-09 07:30:20
+Built: R 2.11.1; ; 2010-11-01 22:52:43 UTC; unix

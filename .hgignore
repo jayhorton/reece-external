@@ -1,0 +1,10 @@
+syntax: glob
+
+*.bak
+*.orig
+*.pyc
+*.sqlite3
+*~
+.git
+.gitignore
+tmp

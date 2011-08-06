@@ -1,0 +1,16 @@
+CEUData	CEUData
+CEUDist	CEUData
+CEUSNP	CEUData
+CHBJPTData	CHBJPTData
+CHBJPTDist	CHBJPTData
+CHBJPTSNP	CHBJPTData
+hapmapCEU	CEUData
+hapmapCHB	CHBJPTData
+hapmapJPT	CHBJPTData
+LDheatmap	LDheatmap
+LDheatmap.highlight	LDheatmap.highlight
+LDheatmap.marks	LDheatmap.marks
+postDrawDetails.ldheatmap	LDheatmap-internal
+postDrawDetails.symbols	LDheatmap-internal
+preDrawDetails.ldheatmap	LDheatmap-internal
+preDrawDetails.symbols	LDheatmap-internal

@@ -1,0 +1,7 @@
+CEUData                 Example data set for LDheatmap
+CHBJPTData              Example data set for LDheatmap
+LDheatmap               This function produces a pairwise LD plot.
+LDheatmap.highlight     Highlight a genetic region in the linkage
+                        disequilibrium heat map
+LDheatmap.marks         Plots a symbol in the centers of cells of the
+                        heat map image
